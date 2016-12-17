@@ -14,7 +14,7 @@
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(6, PIN, NEO_GRB + NEO_KHZ800);
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "5edb1000c7254335a4c0d8ccc5bd39f4";
+char auth[] = "XXXX";
 
 // SHARED SPI SETTINGS (see adafruit webpages for details)
 #define BLUEFRUIT_SPI_CS               8
